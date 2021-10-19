@@ -1,0 +1,53 @@
+body {
+    width: 300px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding: 0;
+}
+.a {
+    height: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.main {
+    display: flex;
+}
+.b {
+    width: 50px;
+    height: 650px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.c {
+    width: 250px;
+    height: 150px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.d {
+    width: 250px;
+    height: 150px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.small {
+    display: flex;
+}
+.e {
+    width: 200px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.f {
+    width: 50px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.g {
+    width: 250px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
