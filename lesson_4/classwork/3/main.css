@@ -1,0 +1,27 @@
+body {
+    width: 400px;
+}
+.a {
+    display: flex;
+    justify-content: space-between;
+}
+.home, .about {
+    width: 190px;
+    height: 400px;
+    background: #3256c9;
+}
+.kabobs {
+    height: 200px;
+    background: #3256c9;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.b {
+    display: flex;
+    justify-content: space-between;
+}
+.shush, .bbq, .summer {
+    width: 120px;
+    height: 200px;
+    background: #243c89;
+}

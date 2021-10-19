@@ -1,0 +1,59 @@
+body {
+    width: 400px;
+}
+.header {
+    height: 50px;
+    background: #49d0d5;
+}
+.a {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.b {
+    margin-right: 3px;
+}
+.hero {
+    width: 147px;
+    height: 150px;
+    background: #f3c4f2;
+    margin-bottom: 5px;
+}
+
+.sidebar {
+    width: 147px;
+    height: 200px;
+    background: rgba(132, 177, 55, 0.69);
+}
+.main {
+    width: 250px;
+    height: 250px;
+    background: #ecb322;
+    margin-bottom: 5px;
+}
+
+.extra {
+    width: 250px;
+    height: 100px;
+    background: #c1baba;
+}
+.d {
+    display: flex;
+}
+.images {
+    width: 300px;
+    height: 80px;
+    background: #2ebf58;
+    margin-right: 3px;
+}
+.posts {
+    width: 100px;
+    height: 80px;
+    background: #eeabee;
+}
+.footer {
+    width: 400px;
+    height: 40px;
+    background: #ee8d2c;
+    margin-top: 5px;
+}

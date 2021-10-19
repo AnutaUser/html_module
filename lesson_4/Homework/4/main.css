@@ -1,0 +1,38 @@
+body {
+    width: 400px;
+}
+.header {
+    height: 70px;
+    background: #3256c9;
+    border: 0.5px solid cornflowerblue;
+    box-sizing: border-box;
+}
+.nav {
+    height: 60px;
+    background: #243c89;
+    border: 0.5px solid cornflowerblue;
+    box-sizing: border-box;
+}
+.two {
+    display: flex;
+}
+.main {
+    width: 80%;
+    height: 300px;
+    background: #6485e8;
+    border: 0.5px solid cornflowerblue;
+    box-sizing: border-box;
+}
+.aside {
+    width: 20%;
+    height: 300px;
+    background: #284ab1;
+    border: 0.5px solid cornflowerblue;
+    box-sizing: border-box;
+}
+.footer {
+    height: 60px;
+    background: rgba(69, 69, 186, 0.51);
+    border: 0.5px solid cornflowerblue;
+    box-sizing: border-box;
+}

@@ -1,0 +1,22 @@
+body {
+    width: 500px;
+}
+.a {
+    background: #5079ff;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.b {
+    display: flex;
+    justify-content: space-between;
+}
+.xxx {
+    width: 150px;
+    height: 200px;
+    background: #274195;
+}
+.c {
+    background: #5079ff;
+    height: 400px;
+    margin-top: 20px;
+}

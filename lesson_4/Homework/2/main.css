@@ -1,0 +1,35 @@
+body {
+    width: 300px;
+}
+.header {
+    box-sizing: border-box;
+    height: 100px;
+    border: 1px solid black;
+    background: rgba(174, 205, 112, 0.69);
+}
+.xxx {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.menu {
+    box-sizing: border-box;
+    height: 300px;
+    width: 100px;
+    background: #f55ef3;
+    border: 1px solid black;
+    margin-right: 5px;
+}
+.post {
+    box-sizing: border-box;
+    height: 150px;
+    width: 200px;
+    background: #50e5ff;
+    border: 1px solid black;
+}
+.footer {
+    box-sizing: border-box;
+    height: 100px;
+    border: 1px solid black;
+    background: rgba(229, 239, 122, 0.69);
+}

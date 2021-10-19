@@ -1,0 +1,34 @@
+body {
+    width: 400px;
+    border: 2px solid #b1adad;
+    border-radius: 10px;
+    padding: 2px;
+}
+.a {
+    height: 80px;
+    background: #d5cfcf;
+    box-sizing: border-box;
+    border: 0.5px solid #ffffff;
+}
+.main {
+    display: flex;
+}
+.second {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.b, .c, .d, .e, .f, .g {
+    width: 100px;
+    height: 100px;
+    background: #d5cfcf;
+    box-sizing: border-box;
+    border: 0.5px solid #ffffff;
+}
+.h {
+    width: 100px;
+    height: 200px;
+    background: #d5cfcf;
+    box-sizing: border-box;
+    border: 0.5px solid #ffffff;
+}

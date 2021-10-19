@@ -1,0 +1,22 @@
+body {
+    width: 500px;
+}
+.a {
+    height: 100px;
+    background: #bf38bd;
+    margin-bottom: 5px;
+}
+.xxx {
+    display: flex;
+}
+.b {
+    background: aqua;
+    height: 300px;
+    width: 70%;
+    margin-right: 5px;
+}
+.c {
+    background: coral;
+    height: 300px;
+    width: 30%;
+}
