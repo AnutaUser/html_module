@@ -1,0 +1,49 @@
+:root {
+    --color_light_green: #E6F7B0;
+    --color_purple: #FFB7FF;
+    --color_blue: #9FE2FF;
+    --color_light_yellow: #FFFFCA;
+    --color_black: #000;
+}
+.container {
+    width: 500px;
+    padding: 0;
+    margin: 0 auto;
+}
+.bord {
+    border: 1px solid var(--color_black);
+}
+.disp {
+    display: flex;
+}
+.h100 {
+    height: 100px;
+}
+.h190 {
+    height: 195px;
+}
+.blue {
+    background: var(--color_blue);
+}
+.disp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.w340 {
+    width: 340px;}
+.marb10 {
+    margin-bottom: 10px;
+}
+.menu {
+    height: 400px;
+    width: 150px;
+    background: var(--color_purple);
+    margin-right: 10px;
+}
+.header {
+    background: var(--color_light_green);
+}
+.footer {
+    background: var(--color_light_yellow);
+}

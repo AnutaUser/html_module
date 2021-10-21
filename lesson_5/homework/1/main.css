@@ -1,0 +1,37 @@
+:root {
+    --color_dark_grey: #9C9C9C;
+    --color_light_grey: #D9D9D9;
+}
+
+.container {
+    width: 1000px;
+    box-sizing: border-box;
+    border: 5px solid var(--color_dark_grey);
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.bg {
+    background: var(--color_light_grey);
+}
+.h300 {
+    height: 300px;
+}
+.disp {
+    display: flex;
+}
+.centr {
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    height: 150px;
+    margin-bottom: 5px;
+}
+.main-right {
+    width: 150px;
+}
+.main-left {
+    width: 850px;
+    margin-right: 5px;
+}

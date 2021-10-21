@@ -1,0 +1,39 @@
+:root {
+    --color_blue: #2269BB;
+    --color_dark_blue: #16457A;
+    --color_white: #EAE7E3;
+}
+.container {
+    width: 500px;
+    padding: 0;
+    margin: 0 auto;
+}
+.bgblue {
+    background: var(--color_blue);
+}
+.dgdark {
+    background: var(--color_dark_blue);
+}
+.h200 {
+    height: 200px;
+}
+.w160 {
+    width: 155px;
+}
+.marbt {
+    margin-bottom: 15px;
+}
+.txt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--color_white);
+    font-size: 20px;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+}
+.contact {
+    height: 500px;
+}
