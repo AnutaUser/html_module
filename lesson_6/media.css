@@ -1,0 +1,69 @@
+@media screen and (max-width: 375px) {
+    .soc_icon__link {
+        display: none;
+    }
+
+    .header__nav__button {
+        display: flex;
+    }
+
+    .header__nav {
+        display: none;
+    }
+
+    .products__list {
+        flex-direction: column;
+    }
+
+    .img10 {
+        width: 270.4px;
+    }
+
+    .products__title {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .products__item__disc {
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+
+    .about__greed {
+        flex-direction: column;
+    }
+
+    .about__card {
+        width: 100%;
+    }
+
+    .about__photo {
+        height: 230px;
+        width: 230px;
+    }
+
+    .content__product {
+        width: 100%;
+        height: 390px;
+    }
+    .content__footer {
+        width: 100%;
+    }
+    .content__title {
+        padding-bottom: 10px;
+    }
+
+    .holder__flex {
+        flex-direction: column;
+    }
+
+    .holder__flex__left, .holder__flex__right {
+        height: 500px;
+        width: 100%;
+        padding: 40px;
+    }
+
+    .footer__wrap__line {
+        width: 300px;
+    }
+}
