@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.father {
+    width: 600px;
+    height: 400px;
+    background: silver;
+    position: relative;
+}
+
+.child {
+    width: 200px;
+    height: 200px;
+    background: cornflowerblue;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: #F4423E;
+}
