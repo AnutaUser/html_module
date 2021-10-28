@@ -1,0 +1,19 @@
+.target {
+    height: 100px;
+    background: #50e5ff;
+}
+
+.box-1 {
+    height: 100px;
+    background: #FF7400;
+}
+
+.box-2 {
+    height: 100px;
+    background: #2ebf58;
+}
+
+.box-3 {
+    height: 200px;
+    background: #BC9060;
+}
