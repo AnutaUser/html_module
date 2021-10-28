@@ -1,0 +1,111 @@
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header {
+    background: url("images/bg.png") no-repeat center/cover;
+    height: 100vh;
+}
+.header__top {
+    padding-top: 20px;
+}
+.header__top__nav img {
+    width: 20px;
+    height: 20px;
+}
+.header__top__nav {
+    padding-right: 20px;
+    border-right: 2px solid white;
+}
+.btn__order {
+    background: #FF7400;
+    height: 47px;
+    width: 157px;
+}
+.header__top__info__coll {
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    column-gap: 40px;
+}
+
+.header__top__info__coll__inf {
+    width: 170px;
+}
+.header__main__h2 {
+    font-size: 45px;
+    line-height: 57px;
+    color: #D67E35;
+}
+
+.header__main__cont {
+    width: 600px;
+    height: 300px;
+    margin-top: 180px;
+    margin-left: 50px;
+
+}
+.header__main h2 {
+    font-size: 50px;
+    line-height: 60px;
+    color: #D67E35;
+}
+.header__main h1 {
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+}
+
+.header__main p {
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    margin-top: 12px;
+}
+.header__main p::before,
+.header__main p::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 61px;
+    background: #C4C4C4;
+}
+.card img {
+    height: 101px;
+    width: 111px;
+    margin-top: 38px;
+    margin-left: 118px;
+}
+.card .card-body {
+    text-align: center;
+
+}
+.card .card-title {
+    font-size: 26px;
+    line-height: 30px;
+}
+.card .card-title span {
+    color: #BC9060;
+}
+.card .card-text {
+    font-size: 26px;
+    line-height: 30px;
+    color: #656363;
+}
+.row .col {
+    width: 360px;
+    height: 330px;
+    position: relative;
+    bottom: -55px;
+
+}
+.header__footer {
+    display: flex;
+    justify-content: center;
+}
