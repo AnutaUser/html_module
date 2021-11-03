@@ -1,0 +1,115 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+.header-main__block{
+    margin-top: 40px;
+    justify-content: space-between;
+
+}
+.header-main__block__logo img {
+    height: 83px;
+    width: 73px;
+}
+
+.header-main__block__logo h4 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+.header-main__block__logo p {
+    height: 28px;
+    width: 173px;
+}
+
+.header-main__block__logo {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.header-main__block__work-time__disc {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 10px;
+    text-align: right;
+}
+
+.header-main__block__work-time img {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.header-main__block__find-us {
+    width: 169px;
+    height: 32px;
+}
+.header-main__block__find-us i {
+    font-size: 40px;
+    margin-right: 10px;
+}
+.header-main__block__find-us p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 12px;
+}
+
+.header-main__block__right-us {
+    width: 204px;
+    height: 30px;
+    background: #E1EFD0;
+    border-radius: 2px;
+}
+.header-main__block__right-us i {
+    color: #FAFAFA;
+    background: #4CAF50
+}
+.header-main__block__right-us p {
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.header-main__block__call-us {
+    width: 157px;
+    height: 40px;
+}
+.header-main__block__call-us h4 {
+    font-size: 20px;
+    line-height: 23px;
+}
+.header-main__block__call-us p {
+    font-size: 12px;
+    line-height: 3px;
+    text-decoration-line: underline;
+    text-align: end;
+}
+
+.header-search {
+    border-bottom: 2px solid #E5E5E5;
+    box-shadow: #CED8E1;
+padding-bottom: 20px;
+}
+
+.header-search .button .btn {
+    width: 164px;
+    height: 53px;
+    border-radius: 6px;
+}
+.header-search .form-control {
+    width: 549px;
+    height: 53px;
+}
+.header-search .btn {
+    width: 101px;
+    height: 53px;
+    border-radius: 0 6px 6px 0;
+}
+.header-search .col {
+    border-right: 1px solid #E1E5F8;
+}

@@ -1,0 +1,25 @@
+@media screen and (max-width: 375px) {
+
+    .header-nav .nav-link {
+        display: none;
+    }
+    .header-main__block {
+        margin-top: 10px;
+    }
+    .header-main__block__logo {
+        width: 135px;
+        height: 47px;
+        font-weight: 200;
+    }
+    .header-main__block__work-time, .header-main__block__find-us {
+        display: none;
+    }
+
+    .header-search {
+        padding: 0;
+    }
+
+
+
+
+}
